@@ -1,4 +1,14 @@
 {
-   "intTest": "4451895171990670/5917123933",
-   "natTest": "4451895171990670/5724524570"
+   "adCounter":2,
+   "adAppId":"ca-app-pub-8139400736508612~3594663601",
+   "adBannerAd":"ca-app-pub-8139400736508612/2622640516",
+   "adInterstitialAd":"ca-app-pub-8139400736508612/4865660479",
+   "adNativeAd":"ca-app-pub-8139400736508612/5795598765",
+   "fbBannerAd":"220451742647871_223961062296939",
+   "fbNativeAd":"220451742647871_220925335933845",
+   "fbInterstitialAd":"220451742647871_220926445933734",
+   "appName":"Guide for Totok",
+   "packageName":"com.totok.cheikh.guide",
+   "storeName":"ICC Software",
+   "startApp":"203721947"
 }
