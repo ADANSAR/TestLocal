@@ -1,14 +1,11 @@
 {
    "appName":"Lahcen App",
-   "adCounter":1,
    "startApp":"203467787",
-   "adAppId":"ca-app-pub-3940256099942544~3347511713",
-   "adBannerAd":"ca-app-pub-3940256099942544/6300978111",
-   "adNativeAd":"ca-app-pub-3940256099942544/2247696110",
-   "adInterstitialAd":"ca-app-pub-3940256099942544/1033173712",
-   "fbBannerAd":"508855279781598_523175378349588",
-   "fbNativeAd":"508855279781598_523176378349488",
-   "fbInterstitialAd":"508855279781598_523176041682855",
-   "packageName":"com.veddomaan.downloaderfere",
-   "storeName":"com.veddomaan.downloaderfere"
+   "AD_bannerAd":"ca-app-pub-3940256099942544/6300978111",
+   "AD_nativeAd":"ca-app-pub-3940256099942544/2247696110",
+   "AD_interstitialAd":"ca-app-pub-3940256099942544/1033173712",
+   "FB_bannerAd":"508855279781598_523175378349588",
+   "FB_nativeAd":"508855279781598_523176378349488",
+   "FB_interstitialAd":"508855279781598_523176041682855",
+   "packageNameNextApp":"com.veddomaan.downloaderfere"
 }
